@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "Polaris-Online-1.12.2",
-      "name": "Polaris-Online (Minecraft 1.12.2)",
-      "description": "Polaris-Online Running Minecraft 1.12.2 (Forge v14.23.5.2847)",
+      "id": "Polaris",
+      "name": "폴라리스 (Minecraft 1.12.2)",
+      "description": "게임속의 현실, 폴라리스 온라인",
       "icon": null,
       "version": "1.0.0",
       "address": "polaris.mcv.kr",
