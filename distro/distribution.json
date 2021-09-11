@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "881147564924211210",
+    "smallImageText": "폴라리스 온라인",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
@@ -16,9 +16,9 @@
       "address": "polaris.mcv.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "",
+        "largeImageText": "게임속의 현실",
+        "largeImageKey": "server-prod"
       },
       "mainServer": true,
       "autoconnect": true,
