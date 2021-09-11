@@ -4,9 +4,9 @@
         "Our efforts are supported by ads from the download page.",
         "If you MUST automate this, please consider supporting the project through https://www.patreon.com/LexManos/"
     ],
-    "id": "1.12.2-forge-14.23.5.2855",
-    "time": "2020-12-19T01:51:02+00:00",
-    "releaseTime": "2020-12-19T01:51:02+00:00",
+    "id": "1.12.2-forge-14.23.5.2854",
+    "time": "2020-04-12T17:57:42+00:00",
+    "releaseTime": "2020-04-12T17:57:42+00:00",
     "type": "release",
     "mainClass": "net.minecraft.launchwrapper.Launch",
     "inheritsFrom": "1.12.2",
@@ -14,13 +14,13 @@
     "minecraftArguments": "--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --userType ${user_type} --tweakClass net.minecraftforge.fml.common.launcher.FMLTweaker --versionType Forge",
     "libraries": [
         {
-            "name": "net.minecraftforge:forge:1.12.2-14.23.5.2855",
+            "name": "net.minecraftforge:forge:1.12.2-14.23.5.2854",
             "downloads": {
                 "artifact": {
-                    "path": "net/minecraftforge/forge/1.12.2-14.23.5.2855/forge-1.12.2-14.23.5.2855.jar",
+                    "path": "net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854.jar",
                     "url": "",
-                    "sha1": "52cecb6a3fbd765599b976dca445b21f33ab5634",
-                    "size": 4464387
+                    "sha1": "762f5cb227a8dd88cfd3949033c78f24030b36aa",
+                    "size": 4464068
                 }
             }
         },
