@@ -30,7 +30,7 @@
           "artifact": {
             "size": 4884700,
             "MD5": "90734a5a713e24902d24c45c15caa42c",
-            "url": "https://github.com/karu70724/Polaris-Launcher/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar"
+            "url": "https://raw.githubusercontent.com/Karu70724/Polaris-Launcher/master/distro/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar"
           },
           "subModules": [
             {
